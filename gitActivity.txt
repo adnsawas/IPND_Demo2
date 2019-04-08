@@ -1,0 +1,14 @@
+Using Terminal,
+	Navigate to a folder in your machine
+	Create a new git repository 
+
+Add few files
+	You can use the 'touch' command to create empty files
+Add the new files to staging area
+Then commit your changes
+
+Add some content to a file
+Add it to staging area and commit again.
+
+Show list of commits.
+Checkout to first commit
